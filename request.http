@@ -1,0 +1,7 @@
+POST http://localhost:3000/suma/ HTTP/1.1
+Content-Type: application/json 
+
+{
+    "num1":5,
+    "num2":9
+}
